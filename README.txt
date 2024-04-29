@@ -1,1 +1,6 @@
-Putting some rubbish words here
+Blank document
+
+Text added
+
+Merge conflict resolved. 
+
